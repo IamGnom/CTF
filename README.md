@@ -13,7 +13,7 @@
 
 ### CTF PWN / Binary Exploitation
 [Liveroverflow PWN intro](https://www.youtube.com/watch?v=iyAyN3GFM7A&list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN&pp=iAQB)</br>
-[Pwnables KR - Great intro challs](https.//pwnable.kr)</br>
+[Pwnables KR - Great intro challs](https://pwnable.kr)</br>
 [Basic Binex Concepts](https://ctf101.org/binary-exploitation/overview/)</br>
 [the best pwn python libary](https://docs.pwntools.com/en/stable/)</br>
 
