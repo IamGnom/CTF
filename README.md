@@ -11,6 +11,11 @@
 [John Hammond](https://www.youtube.com/@_JohnHammond)</br>
 [PWN Function](https://www.youtube.com/@PwnFunction)</br>
 
+### CTF PWN / Binary Exploitation
+[Liveroverflow PWN intro](https://www.youtube.com/watch?v=iyAyN3GFM7A&list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN&pp=iAQB)</br>
+[Pwnables KR - Great intro challs](pwnable.kr)</br>
+[Basic Binex Concepts](https://ctf101.org/binary-exploitation/overview/)</br>
+[the best pwn python libary](https://docs.pwntools.com/en/stable/)</br>
 
 ## KnowHow Base
 [Hacktricks](https://book.hacktricks.xyz/welcome/readme)</br>
